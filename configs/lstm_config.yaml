@@ -1,0 +1,13 @@
+model: 'LSTM'
+
+embed_size: 100
+
+hidden_size: 200
+
+num_layers: 2
+
+epochs: 25
+
+patience: 5
+
+seq_len: 32
