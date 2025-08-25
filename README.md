@@ -18,6 +18,46 @@ No doubts, well I lay and trust such a while. So-night, believe your proper lame
 Thou hast a boldness of law confusion to pardon thee to the watch of their tenarting streams
 Of thy company in hand: and so sins you to his hands. Come, come, let's come: we will be so, from her senators doth it but begun more than this.***
 
+### Output 2:
+
+**Macbeth
+ by William Shakespeare
+ Edited by Barbara A. Mowat and Paul Werstiness**
+
+**ROMEO:
+Ay, bring so? Farewell, come, Signior king;
+That a master,
+And he had safety,' the grace's daughter is as that's unto you,
+And bed, too trymeth with his mere.**
+
+**GONZALO:
+The time so in journey, man, good Barnardie,' good, lord,
+For this answer in what
+Our as smothers, come, I am pass.**
+
+**BUCKINGHAM:
+And it is a people, and headst so own dog,
+And slept not friend: wherefore!--**
+
+**ISABELLA:
+The princess, that's more.**
+
+**LUCIO:
+Madam, so, thou as, then, nay, that he lives
+Upon Eviged, and thou would remember her
+Claudio made the treatures of Angelo.**
+
+**JULIET:
+Yet, look it, stamp you.**
+
+**Servant:
+What, wilt he would be you, not me: for vain too,
+And officillury now to struck theind spoils?
+What thou begen of yourself; what is off a mystery.
+And see the assuiff! you shall be
+But and a leave hateness to it. We
+One too will, by the mother?**
+
 
 ## Files:
 
