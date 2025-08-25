@@ -3,7 +3,9 @@ RNN &amp; LSTM Text Generation Programming Project for CSE 151B (UCSD)
 
 For this project, I trained and fine-tuned RNN and LSTM models on Shakespearean-style text. The data/tiny_shakespeare.txt file contains 40,000 lines from a mix of his plays. The models were trained to predict the next character given a sequence of characters, like the RNN/LSTM model shown below:
 
-<img width="171" height="203" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/d9505581-510a-4256-b0a7-85ee6a2bc144" />
+<p align="center">
+ <img width="171" height="203" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/d9505581-510a-4256-b0a7-85ee6a2bc144" />
+</p>
 
 A final cross-entropy loss of 1.29 was achived using the LSTM model with 15 epochs, a sequence length of 32, and 2 hidden layers each of size 150 neurons.
 
