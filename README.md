@@ -1,6 +1,12 @@
 # RNN-LSTM
 RNN &amp; LSTM Text Generation Programming Project for CSE 151B (UCSD)
 
+For this project, I trained and fine-tuned RNN and LSTM models on Shakespearean-style text. The data/tiny_shakespeare.txt file contains 40,000 lines from a mix of his plays. The models were trained to predict the next character given a sequence of characters, like the RNN/LSTM model shown below:
+
+<img width="171" height="203" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/d9505581-510a-4256-b0a7-85ee6a2bc144" />
+
+A final cross-entropy loss of 1.29 was achived using the LSTM model with 15 epochs, a sequence length of 32, and 2 hidden layers each of size 150 neurons.
+
 ## Generated Text Samples:
 
 ### Output 1:
@@ -20,43 +26,43 @@ Of thy company in hand: and so sins you to his hands. Come, come, let's come: we
 
 ### Output 2:
 
-**Macbeth
+_**Macbeth
  by William Shakespeare
- Edited by Barbara A. Mowat and Paul Werstiness**
+ Edited by Barbara A. Mowat and Paul Werstiness**_
 
-**ROMEO:
+***ROMEO:
 Ay, bring so? Farewell, come, Signior king;
 That a master,
 And he had safety,' the grace's daughter is as that's unto you,
-And bed, too trymeth with his mere.**
+And bed, too trymeth with his mere.***
 
-**GONZALO:
+***GONZALO:
 The time so in journey, man, good Barnardie,' good, lord,
 For this answer in what
-Our as smothers, come, I am pass.**
+Our as smothers, come, I am pass.***
 
-**BUCKINGHAM:
+***BUCKINGHAM:
 And it is a people, and headst so own dog,
-And slept not friend: wherefore!--**
+And slept not friend: wherefore!--***
 
-**ISABELLA:
-The princess, that's more.**
+***ISABELLA:
+The princess, that's more.***
 
-**LUCIO:
+***LUCIO:
 Madam, so, thou as, then, nay, that he lives
 Upon Eviged, and thou would remember her
-Claudio made the treatures of Angelo.**
+Claudio made the treatures of Angelo.***
 
-**JULIET:
-Yet, look it, stamp you.**
+***JULIET:
+Yet, look it, stamp you.***
 
-**Servant:
+***Servant:
 What, wilt he would be you, not me: for vain too,
 And officillury now to struck theind spoils?
 What thou begen of yourself; what is off a mystery.
 And see the assuiff! you shall be
 But and a leave hateness to it. We
-One too will, by the mother?**
+One too will, by the mother?***
 
 
 ## Files:
